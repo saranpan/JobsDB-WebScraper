@@ -1,5 +1,9 @@
 # **WebsDB** : The webscraper on JobsDb
 
+---
+> using Object-oriented programming (OOP) in Python 
+![open in colab](https://image.freepik.com/free-vector/people-with-smartphones-using-mobile-banking-app_74855-5917.jpg)
+
 <img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/JobsDB_meme.jpg?raw=true" width="50%">
 
 --- 
