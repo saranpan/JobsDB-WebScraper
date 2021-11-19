@@ -1,8 +1,6 @@
 # **WebsDB** : The webscraper on JobsDb
 
-![jobsdb_meme](https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/JobsDB_meme.jpg?raw=true =100x20)
-
-<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/JobsDB_meme.jpg?raw=true" width="200">
+<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/JobsDB_meme.jpg?raw=true" width="50%">
 
 --- 
 ## Packages used
