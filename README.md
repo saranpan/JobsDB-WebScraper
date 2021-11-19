@@ -22,8 +22,7 @@ AngularJS-powered HTML5 Markdown editor.
 
 
 ## How it works 
-<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/JobsDB_meme.jpg?raw=true" width="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/1.search_jobsdb.png?raw=true
-%">
+<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/1.search_jobsdb.png?raw=true" >
 
 ## Features
 
