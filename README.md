@@ -20,6 +20,11 @@ AngularJS-powered HTML5 Markdown editor.
 - See HTML in the right
 - ✨Magic ✨
 
+
+## How it works 
+<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/JobsDB_meme.jpg?raw=true" width="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/1.search_jobsdb.png?raw=true
+%">
+
 ## Features
 
 - Import a HTML file and watch it magically convert to Markdown
