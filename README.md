@@ -7,9 +7,9 @@
 [![open in colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/drive/1J-7DNtrsZj8nN2YhD9g-hypexiVO4mI_?usp=sharing)
 
 --- 
-## Packages used
-- requests
-- BeautifulSoup
+## Brief summary
+
+- 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -18,7 +18,7 @@ AngularJS-powered HTML5 Markdown editor.
 
 - Type some Markdown on the left
 - See HTML in the right
-- ✨Magic ✨
+- Suppose we scraped the data given **'doctor'** as keyword 
 
 |index|job title                                                                                                        |more info                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |job_company                                        |job_location              |skill requirement 1                               |skill requirement 2                               |skill requirement 3                               |posted time|
 |------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|--------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|-----------|
@@ -29,6 +29,9 @@ AngularJS-powered HTML5 Markdown editor.
 |4     |Accountant/เจ้าหน้าที่บัญชี                                                                                      |https://th.jobsdb.com//th/en/job/accountant-%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5-300003002466185?token=0~426b9c9f-ab6e-4fae-aaa8-168612118aa6&sectionRank=5&jobId=jobsdb-th-job-300003002466185                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |GCC Services (Thailand) Co., Ltd.                  |Sathorn                   |                                                  |                                                  |                                                  |20h ago    |
 
 scraped at 19/11/64 20:15 
+
+
+<font size="7"> There are 8 features that it scrapes. </font>
 
 ## How it works 
 <img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/1.search_jobsdb.png?raw=true" >
