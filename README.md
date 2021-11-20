@@ -55,4 +55,15 @@ you will see a lot of results given that keyword **'doctor'**. Each job contains
 <img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/4.%20more%20info.jpg?raw=true" width="50%">
 <center>Figure 2</center>
 
+---
+## How we obtain those data features
 
+1. We manually explore where each data feature was embbed in that webpage source code.
+
+<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/5.%20Compare.jpg?raw=true" width="50%">                
+
+2. Then we use *requests* to obtain the source code of the webpage given the job keyword
+
+3. Lastly, we use beautifulsoup to parse the imported source code (just like RegEx) using the location of each feature, then extract them out
+
+Once we extracted them, we can write those data to the csv file..
