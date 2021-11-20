@@ -44,11 +44,12 @@ Also note that the data in *skill requirement 1-3* are all ambigious to name the
 ## How we obtain those data features
 
 Eg. When we enter jobsdb.com and search keyword **'doctor'**
+
 <img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/1.search_jobsdb.png?raw=true" >
 
-you will see a lot of result given that keyword **'doctor'**. Each job contains their own feature as the following
-<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/3.%20label%20feature.jpg?raw=true" >
+you will see a lot of results given that keyword **'doctor'**. Each job contains their own feature. Here's the first example
 
+<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/3.%20label%20feature.jpg?raw=true" >
 However, for the feature *more info* is hidden. it embbed in that job object.
 
 <img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/4.%20more%20info.jpg?raw=true" >
