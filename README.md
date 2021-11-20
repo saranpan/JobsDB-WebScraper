@@ -49,8 +49,8 @@ Eg. When we enter jobsdb.com and search keyword **'doctor'**
 
 you will see a lot of results given that keyword **'doctor'**. Each job contains their own feature. Here's the first example
 
-<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/3.%20label%20feature.jpg?raw=true" >
+<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/3.%20label%20feature.jpg?raw=true" width="50%">
 However, for the feature *more info* is hidden. it embbed in that job object.
 
-<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/4.%20more%20info.jpg?raw=true" >
+<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/4.%20more%20info.jpg?raw=true" width="50%">
 
