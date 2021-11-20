@@ -36,6 +36,10 @@ There are 8 features that we scrape.
 7. **skill requirement 3**	
 8. **posted time** : The range of time between posted date and now
 
+<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/3.%20label%20feature.jpg?raw=true" width="50%">
+
+<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/4.%20more%20info.jpg?raw=true" width="50%">
+
 Note that in JobsDB platform treat the *skill requirement 1-3* as optional feature, while the rest of the features are required. This mean it's possible to see the missing value that is scraped (only miss ing in Skill Requirement 1-3). 
 
 Also note that the data in *skill requirement 1-3* are all ambigious to name the categories for it. It maybe just the data about that job 
