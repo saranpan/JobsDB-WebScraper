@@ -73,6 +73,7 @@ Job_keyword = 'data'   #@param {type: "string"}
 ```
 
 This can be interpreted as
+
 <img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/1.search_jobsdb.png?raw=true" width="75%">    
 
 then, It returns the output as the following table given keyword 'data'
