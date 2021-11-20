@@ -13,7 +13,7 @@
 
 Jobsdb is a platform for finding job. All you need to do is inputting the relavant keyword for your job
 
-We were inspired to scrape all of the relavant job respect to the keyword the user want to on jobsdb.com. 
+We were inspired to scrape all of the relavant job respect to the keyword the user want to on jobsdb.com, which in future, we will use it to recommend the relavant job for the unemployable person based on their skill
 
 So, basically, the input for our web scraper is a keyword to search like 'doctor','data','chemistry' etc. The output that our webscraper (WebsDB) return will be in form of a table which contains many features of each job
 
