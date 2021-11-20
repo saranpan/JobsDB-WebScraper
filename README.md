@@ -44,20 +44,6 @@ Note that in JobsDB platform treat the *skill requirement 1-3* as optional featu
 
 Also note that the data in *skill requirement 1-3* are all ambigious to name the categories for it. It maybe just the data about that job 
 
----
-## How we obtain those data features
-
-Eg. When we enter jobsdb.com and search keyword **'doctor'**
-
-<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/1.search_jobsdb.png?raw=true" >
-
-you will see a lot of results given that keyword **'doctor'**. Each job contains their own feature. Here's the first example
-
-<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/3.%20label%20feature.jpg?raw=true" width="50%">
-<center>Figure 1</center>
-
-<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/4.%20more%20info.jpg?raw=true" width="50%">
-<center>Figure 2</center>
 
 ---
 ## How we obtain those data features
