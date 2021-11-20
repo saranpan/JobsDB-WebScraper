@@ -50,7 +50,7 @@ Also note that the data in *skill requirement 1-3* are all ambigious to name the
 
 1. We manually explore where each data feature was embbed in that webpage source code.
 
-<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/5.%20Compare.jpg?raw=true" width="50%">                
+<img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/5.%20Compare.jpg?raw=true" width="75%">                
 
 2. Then we use *requests* to obtain the source code of the webpage given the job keyword
 
