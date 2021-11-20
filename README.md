@@ -67,9 +67,9 @@ Once we extracted all of the jobs data based on that keyword, we can write those
 ---
 ## How to use
 
-It's simple, just input the keyword for your relavant job. Eg. 'data'
+It's simple, just input the keyword for your relavant job. Eg. 'doctor'
 ```sh
-Job_keyword = 'data'   #@param {type: "string"}
+Job_keyword = 'doctor'   #@param {type: "string"}
 ```
 
 This can be interpreted as
