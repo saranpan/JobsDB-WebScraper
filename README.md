@@ -153,7 +153,8 @@ then, It returns the output as the following table given keyword 'data'
 
 scraped at 20/11/64 21:25
 
-If you have Google Drive, it will automatically transfer that table to your folder (if it's failed, you can change the destination of folder) 
+
+Note: If you have Google Drive, it will automatically transfer that table (csv file) to your folder (if it's failed, you can change the destination of folder) 
 
 --- 
 ## Future Implication
