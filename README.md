@@ -160,3 +160,5 @@ Note: If you have Google Drive, it will automatically transfer that table (csv f
 ## Future Implication
 - ~~Making recommendation system based on the user skill using Cosine similarity to find the similarity between the skill requirement and input skill~~
 Recently did it, see on Recommendation_system.ipynb
+
+Contributor on this section of the project : Saran Pannasuriyaporn, Panittra Saiseang
