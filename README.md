@@ -1,8 +1,10 @@
-# **WebsDB** : The webscraper on JobsDb
+# **CareerMatcher** : The webscraper on JobsDb and Job Recommendation
 
 ---
-> using just BeautifulSoup & Requests Packages (No Selenium needed)
+> Webscraper : using just BeautifulSoup & Requests Packages (No Selenium needed)
 <img src="https://github.com/wallik2/Jobsdb_WebScraper/blob/main/picture/JobsDB_meme.jpg?raw=true" width="50%">
+
+> Recommendation System : Followed by TF-IDF Vectorize to find the similarity and ranking based on the unique characteristic of user input.
 
 [![open in colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/drive/1J-7DNtrsZj8nN2YhD9g-hypexiVO4mI_?usp=sharing)
 
